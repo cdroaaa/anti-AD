@@ -194,7 +194,14 @@ return array(
     'stats.gc.apple.com' => 0, #296
     'img1.sj.qq.com' => 0, #294
     'live.simcitybuildit.com' => 0, #303
-    
+    'subscription.iqiyi.com' => 0, #306
+    'azureedge.net' => 0, #309
+    'surge.sh' => 0, // qq group, @frank
+    'ccclub.cmbchina.com' => 0, // #313
+    'adv.ccb.com' => 0, // #316
+    'conac.cn' => 0, // #317
+    'mix.sina.com.cn' => 0, // #320
+
     
     
     

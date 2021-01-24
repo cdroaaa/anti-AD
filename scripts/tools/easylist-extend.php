@@ -110,7 +110,7 @@ $ARR_MERGED_WILD_LIST = array(
     'dwtrack*.*' => null,
     'guanggao*.*' => null,
     'lianmeng*.*' => null,
-    'monitor*.*' => null,
+    //'monitor*.*' => null,
     'omgmta*.*' => null,
     'omniture*.*' => null,
     'openx*.*' => null,
@@ -193,6 +193,7 @@ $ARR_WHITE_RULE_LIST = array(
     '@@||passport.bobo.com^' => 1, // #265
     '@@||stat.jseea.cn^' => 1, // #279
     '@@||widget.intercom.io^' => 1, // #280
+    '@@||track.toggl.com^' => 1, // #307
 );
 
 //针对上游赦免规则anti-AD不予赦免的规则，即赦免名单的黑名单

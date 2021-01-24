@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202101021238
+! Version: 202101212059
 ! Title: CJX's Annoyance List
-! Last modified: 2021/01/02 12:38 +0800
+! Last modified: 2021/01/21 20:59 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -29,7 +29,6 @@
 /z.zolapp.
 =Ad_ZPlusGoods&
 !------------------------General element hiding rules-------------------------!
-##img[src*=".duoduose.info/"][width="450"]
 ###doyoo_mon_mask
 ###doyoo_monitor
 ##.siteAnn1
@@ -71,6 +70,7 @@
 ||ntalker.com^
 ||pop800.com^$third-party
 ||soperson.com^$third-party
+||tawk.to^$third-party
 ||tui.cnzz.net^$third-party
 ||wpa.b.qq.com/cgi/wpa.php?
 ||zoosnet.net^$third-party
@@ -423,7 +423,22 @@
 ||yyetss.com/static/modal.js
 ||pcauto.com.cn/zt/*_dialog/cjx-pc-half_
 ||thepaper.cn/bottomBanner_
+||iiikefu.com/wp-content/plugins/halfdata-green-popups/js/lepopup.js
+||51cto.com/home/web/js/new_login/iframe.js
+||sinaimg.cn/large/007drMcOly1gfnqzv8a7ij30xc02nwfr.jpg
+||mydrivers.com/2021/www/nianhuojie.png
 !------------------------Specific element hiding rules------------------------!
+sina.com.cn###commonSideBar
+sina.com.cn##.yyy-wrap-2021
+sina.com.cn##.cj_app_left
+banjiajia.com##.register-ten
+banjiajia.com##.register-box
+ke.qq.com##.bottom-bar
+699pic.com###landlord
+699pic.com##.springtime-floatLink
+699pic.com##.springtime-pop
+699pic.com##.winpopbg
+tuchong.com##.float
 baidu.com##.desktop-guide
 bilibili.com##.video-page-game-card
 ldmnq.com##.dialog-game
@@ -1345,6 +1360,7 @@ m.babytree.com##script + a[class]
 /v.gif?logtype=
 /yesky/js/counter/*
 /zcool-analytics.js
+||pstatp.com/toutiao/push.js
 ||pv.cheshi.com^
 ||tracking.kdnet.net^
 ||lnd.com.cn/sys/real_calc.js

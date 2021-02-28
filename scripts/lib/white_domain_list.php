@@ -201,6 +201,20 @@ return array(
     'adv.ccb.com' => 0, // #316
     'conac.cn' => 0, // #317
     'mix.sina.com.cn' => 0, // #320
+    'jwpcdn.com' => 0, // #322
+    'retcode.taobao.com' => 0, // #312
+    '3975.com' => 0, // #326
+    'air.1688.com' => 0, // #331
+    'continuum.dds.microsoft.com' => 0, // #335
+    'sec.resource.xiaomi.net' => 0, // #328
+    'api.cortana.ai' => 0, // #338
+    'mazu.3g.qq.com' => 0, // #340
+    'umiwi.com' => 0, // #341
+    'xmpush.xiaomi.com' => 0, // #343
+    'doublecklick.net' => 1, // 拼写错误的域名，https://github.com/privacy-protection-tools/anti-AD/pull/347/files
+    'issuecdn.baidupcs.com' => 0, // #350
+    'duiba.com.cn' => 0, // #352
+    'trib.al' => 0, // #357
 
     
     

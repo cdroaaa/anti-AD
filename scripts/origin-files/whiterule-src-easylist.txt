@@ -3,6 +3,7 @@
 @@||17173im.allyes.com^
 @@||199it.com^$generichide
 @@||1point3acres.com^$generichide
+@@||3dpchip.com^$generichide
 @@||4horlover.com^$generichide
 @@||51job.com^$generichide
 @@||520call.me^$generichide
@@ -76,6 +77,7 @@
 @@||app.adroll.com^$generichide
 @@||archiveteam.org^$generichide
 @@||arstechnica.com^$generichide
+@@||aternos.org^$generichide
 @@||authentication-api.skimlinks.com^
 @@||battle.net^
 @@||bde4.cc^$generichide
@@ -128,6 +130,7 @@
 @@||dizhi99.com^$generichide
 @@||dlkoo.cc^$generichide
 @@||dlkoo.com^$generichide
+@@||dmhy.b168.net^$generichide
 @@||doubibackup.com^$generichide
 @@||download.jumpw.com^
 @@||download.mokeedev.com^$genericblock,generichide
@@ -210,12 +213,11 @@
 @@||kissjav.com^$generichide
 @@||kk665403.pixnet.net^$generichide
 @@||laotiesao.vip^$generichide
-@@||lcpdfr.com^$generichide
 @@||ldxinyong.com^$generichide
 @@||league-funny.com^$generichide
 @@||league-funny.com^$script,~third-party
 @@||leagueofmovie.com^$generichide
-@@||lemon-ads.com^$~document,~third-party
+@@||lemon-ads.com^$~third-party
 @@||lemon.baidu.com^
 @@||lfporn.com^$generichide
 @@||link.tl^$generichide
